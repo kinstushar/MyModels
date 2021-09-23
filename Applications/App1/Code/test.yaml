@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - image: gcr.io/heptio-images/ks-guestbook-demo:0.2
-        name: guestbook-ui-test2
+        name: guestbook-ui-test3
         ports:
         - containerPort: 80
